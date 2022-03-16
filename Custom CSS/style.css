@@ -1,0 +1,114 @@
+.header-style{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 59px;
+    letter-spacing: 0em;
+    color: #31A5AC;
+}
+
+.img-style{
+    height: 815px;
+    width: 705px;
+    border-radius: 0px;
+}
+
+.inputBackgroundColor{
+    background-color: #DCDCDC;
+}
+
+.center-column{
+    background-color: #F8F8F8;
+}
+
+.form-color{
+    background-color:#F8F8F8;
+}
+
+.inputBox{
+    height: 44px;
+    width: 229px;
+    border-radius: 2px;
+
+}
+
+.inputBoxGap{
+    margin-left: 9px;
+}
+
+.calculate-box{
+    height: 51px;
+    width: 199px;
+    border-radius: 4px;
+    background: #59A5FF;
+}
+
+.amount-list{
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 0em;
+}
+
+.savePercen{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+}
+
+.saveBox{
+    height: 44px;
+    width: 132px;
+    border-radius: 2px;
+}
+
+.saveButton{
+    height: 44px;
+    width: 173px;
+    border-radius: 2px;
+    background: #59A5FF;
+}
+
+.total-expense-notify{
+    display: none;
+}
+
+
+
+@media only screen and (max-width: 575px)  {
+
+    .custom_image img {
+        margin-left : 65px;
+        width : 400px;
+        height : 300px;
+    }
+}
+
+  @media only screen and (min-width: 576px) and (max-width: 767px)  {
+
+    .custom_image img {
+        margin-left : 65px;
+        width : 400px;
+        height : 300px;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px)  {
+
+    .custom_image img {
+
+        margin-left : 160px;
+
+        width : 400px;
+        height : 300px;
+    
+   
+    }
+}
+
